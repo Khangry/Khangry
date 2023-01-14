@@ -1,4 +1,5 @@
 ## 🤗 About me
+- My name is Nguyen Tuan Khang and everyone can call me Khangry :>
 - I'm a student at Trung Vuong high school in Vietnam
 - I'm 16 years old
 - I prefer to play CSGO and most fps games
