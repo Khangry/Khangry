@@ -1,10 +1,5 @@
 ## 🤗 About me
 - My name is Nguyen Tuan Khang and everyone can call me Khangry :>
-- I'm a student at Trung Vuong high school in Vietnam
-- I'm 16 years old
-- I prefer to play CSGO and most fps games
-- Currently, I prepare to maintain some source ROMS for K40S aka Poco F4 (Munch)
-- Learning building Android every day.
 ## 📫 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Khangry.Developer/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/Khangrydev)
